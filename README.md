@@ -1,12 +1,55 @@
-# React + Vite
+# 📝 Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive Todo List application built using **React.js**, **Vite**, and **Tailwind CSS**.  
+This app allows you to **add**, **edit**, **delete**, and **mark tasks as complete**.  
+All data is stored in **Local Storage**, so your tasks remain saved even after refreshing the page.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 Check out the live working version of the app here:  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=react)]([https://your-deployment-link.com](https://vercel.com/pruthvirajs-projects-55923f1b/todo-list-app))
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ✅ Add new tasks
+- 🔄 Edit existing tasks
+- 🗑️ Delete tasks
+- ☑️ Mark tasks as completed
+- 💾 Persistent storage using browser's Local Storage
+- ⚡ Built with Vite for fast development
+- 💅 Styled using Tailwind CSS
+
+## 📸 Screenshots
+
+| Home View | Edit Task |
+|----------|-----------|
+| ![Home Screenshot](C:\Users\Pruthviraj\OneDrive\Desktop\React.js\Screenshot1) | ![Edit Screenshot](C:\Users\Pruthviraj\OneDrive\Desktop\React.js\Screenshot2) |
+
+> _Replace the above image links with the actual names of your screenshots in the `screenshots` folder._
+
+## 🛠️ Built With
+
+- [React.js](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Local Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+## 📂 Installation
+
+To run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/todo-list-app.git
+
+# Navigate to the project folder
+cd todo-list-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+
