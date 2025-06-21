@@ -7,7 +7,7 @@ All data is stored in **Local Storage**, so your tasks remain saved even after r
 ## 🌐 Live Demo
 
 🎯 Check out the live working version of the app here:  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=react)]([https://your-deployment-link.com](https://vercel.com/pruthvirajs-projects-55923f1b/todo-list-app))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=react)](https://todo-list-app-three-ashy.vercel.app/))
 
 
 ## 🚀 Features
