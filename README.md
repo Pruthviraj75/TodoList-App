@@ -20,13 +20,14 @@ All data is stored in **Local Storage**, so your tasks remain saved even after r
 - ⚡ Built with Vite for fast development
 - 💅 Styled using Tailwind CSS
 
-## 📸 Screenshots
+## 📸 UI Preview
 
-| Home View | Edit Task |
-|----------|-----------|
-| ![Home Screenshot](C:\Users\Pruthviraj\OneDrive\Desktop\React.js\Screenshot1) | ![Edit Screenshot](C:\Users\Pruthviraj\OneDrive\Desktop\React.js\Screenshot2) |
+### 📷 Home
+![Completed Task View 1](https://github.com/user-attachments/assets/d04ef881-5dd5-48e7-9b0a-ed9c37692512)
 
-> _Replace the above image links with the actual names of your screenshots in the `screenshots` folder._
+### 📷 Completed tasks
+![Completed Task View 2](https://github.com/user-attachments/assets/8fca3ea2-751d-4955-a1b2-c9054495c850)
+
 
 ## 🛠️ Built With
 
@@ -41,7 +42,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/Pruthviraj75/TodoList-App.git
 
 # Navigate to the project folder
 cd todo-list-app
